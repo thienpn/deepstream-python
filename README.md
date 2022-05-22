@@ -6,7 +6,7 @@ This repo use Python API for Deepstream (will be updated soon)
 
 ## TODO:
 
-- [x] **Sink - File ** --Pending --
+- [ ] **Sink - File**  --Pending--
 - [ ] Sink - EGLSsink
 - [ ] Sink - Fakesink
 - [ ] Sink - RTSP
